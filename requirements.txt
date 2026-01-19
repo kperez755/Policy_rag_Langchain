@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+
+pydantic
+python-dotenv
+
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+
+chromadb
+pypdf
+
+typing-extensions
