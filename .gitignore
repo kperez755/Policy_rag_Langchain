@@ -1,0 +1,6 @@
+files/*
+chunked/*
+venv/
+.venv/
+__pycache__
+.env
