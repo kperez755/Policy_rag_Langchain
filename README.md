@@ -34,7 +34,9 @@ The system ingests policy documents (PDFs), stores them in a vector database, an
 
 ```
 .
-├── main.py                # FastAPI app entry point
+├── Static
+  ├── index.html           # contains html for frontend
+├── server.py                # FastAPI app entry point
 ├── WithSemantic.py        # Ingestion + retrieval logic
 ├── requirements.txt
 ├── README.md
